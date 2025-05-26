@@ -12,4 +12,7 @@ git commit -m "comentarios"
 
 git push
 
+# 4 actualizar repositorio
+
+
 
